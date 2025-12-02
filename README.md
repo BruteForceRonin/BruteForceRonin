@@ -1,4 +1,4 @@
-# Hi, I'm Prem — **BruteForceRonin** ⚔️
+# Hi, I'm Prem J / **BruteForceRonin** ⚔️
 
 **Aspiring Software Engineer | Problem Solver**  
 Focused on strong fundamentals, clean architecture, and scalable solutions.
