@@ -6,26 +6,27 @@ Focused on strong fundamentals, clean architecture, and scalable solutions.
 ---
 
 ### 🚀 What I'm working on
-- Strengthening **Data Structures & Algorithms**
-- Java & JavaScript development
-- Backend development using Node.js
-- Exploring Cloud & DevOps practices (CI/CD, Docker, AWS)
+- Learning Java, JavaScript, and Python for software development
+- Strengthening problem-solving with Data Structures & Algorithms
+- Exploring Cloud & DevOps technologies (Docker, Linux, AWS)
 
 ---
 
 ### 🧠 Core Focus Areas
-- Algorithmic problem solving
-- Object-Oriented Programming & design patterns
-- Efficient and maintainable backend systems
+- Software development fundamentals
+- Data Structures & Algorithms
+- Cloud & DevOps basics
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-#### Languages & Runtime
+#### Languages
 ![Java](https://img.shields.io/badge/Java-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![Bash](https://img.shields.io/badge/Bash-black)
+![YAML](https://img.shields.io/badge/YAML-white)
 
 #### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-orange)
@@ -43,9 +44,8 @@ Focused on strong fundamentals, clean architecture, and scalable solutions.
 
 ### 🌱 Current Goals
 - Improve algorithmic efficiency and system thinking
-- Build real-world backend & full-stack applications
-- Deploy projects using modern DevOps pipelines
-- Advancing knowledge in Cloud services and automation
+- Build real-world development experience through projects
+- Learn Cloud services and DevOps automation
 
 ---
 
