@@ -1,12 +1,12 @@
 # Hi, I'm Prem J / **BruteForceRonin** ⚔️
 
-**Aspiring Software Engineer | Problem Solver**  
+**Software Engineer | Problem Solver**  
 Focused on strong fundamentals, clean architecture, and scalable solutions.
 
 ---
 
 ### 🚀 What I'm working on
-- Learning Java, JavaScript, and Python for software development
+- Java, JavaScript, and Python for software development and AI technologies
 - Strengthening problem-solving with Data Structures & Algorithms
 - Exploring Cloud & DevOps technologies (Docker, Linux, AWS)
 
