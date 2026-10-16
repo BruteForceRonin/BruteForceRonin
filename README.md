@@ -108,4 +108,4 @@ Focused on strong software engineering fundamentals, clean architecture, and sca
 
 ---
 
-*Learning by building. Improving through problem-solving. Engineering with purpose.*
+*"A thousand defeats. A thousand lessons. The blade remains unbroken."*
